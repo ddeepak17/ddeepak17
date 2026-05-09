@@ -15,6 +15,4 @@ JavaScript · TypeScript · React · Next.js · Node.js · PHP · MySQL · HTML 
 ## Featured Projects
 
 
-## Connect
-LinkedIn: https://www.linkedin.com/in/darren-deepak-348142259/
 
