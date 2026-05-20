@@ -10,7 +10,7 @@ I'm interested in building practical tools that solve real problems, especially 
 - Preparing for internship and work-integrated learning opportunities
 
 ## Tech
-JavaScript · TypeScript · React · Next.js · Node.js · PHP · MySQL · HTML · CSS · Tailwind · Git
+Java · JavaScript · TypeScript · React · Next.js · Node.js · PHP · MySQL · HTML · CSS · Tailwind · Git
 
 ## Featured Projects
 
